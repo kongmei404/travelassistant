@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ai-service
+  cloud:
+    nacos:
+      server-addr: 34.150.13.89:8848
+server:
+  port: 3012
+

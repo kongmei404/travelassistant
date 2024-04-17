@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="travelassistant-oss" />
+        <module name="travelassistant-collect" />
+        <module name="travelassistant-admin" />
+        <module name="travelassistant-search" />
+        <module name="store-front-picture" />
+        <module name="travelassistant-user" />
+        <module name="travelassistant-category" />
+        <module name="travelassistant-carousel" />
+        <module name="travelassistant-cart" />
+        <module name="travelassistant-common-feign" />
+        <module name="travelassistant-product" />
+        <module name="travelassistant-gateway" />
+        <module name="travelassistant-ai" />
+        <module name="travelassistant-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="store-front-picture" target="1.8" />
+      <module name="store-nacos-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="store-front-picture" options="-parameters" />
+      <module name="store-nacos-server" options="-parameters" />
+      <module name="travelassistant-admin" options="-parameters" />
+      <module name="travelassistant-ai" options="-parameters" />
+      <module name="travelassistant-carousel" options="-parameters" />
+      <module name="travelassistant-cart" options="-parameters" />
+      <module name="travelassistant-category" options="-parameters" />
+      <module name="travelassistant-collect" options="-parameters" />
+      <module name="travelassistant-common-feign" options="-parameters" />
+      <module name="travelassistant-gateway" options="-parameters" />
+      <module name="travelassistant-order" options="-parameters" />
+      <module name="travelassistant-oss" options="-parameters" />
+      <module name="travelassistant-product" options="-parameters" />
+      <module name="travelassistant-search" options="-parameters" />
+      <module name="travelassistant-user" options="-parameters" />
+    </option>
+  </component>
+</project>

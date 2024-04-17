@@ -1,0 +1,7 @@
+com\travelassistant\search\config\SearchConfiguration.class
+com\travelassistant\search\controller\SearchController.class
+com\travelassistant\search\SearchApplication.class
+com\travelassistant\search\listener\ApplicationRunListener.class
+com\travelassistant\search\service\impl\SearchServiceImpl.class
+com\travelassistant\search\service\SearchService.class
+com\travelassistant\search\listener\RabbitMQListener.class

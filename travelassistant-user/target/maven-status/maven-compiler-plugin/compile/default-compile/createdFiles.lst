@@ -1,0 +1,10 @@
+com\travelassistant\user\mapper\UserMapper.class
+com\travelassistant\user\service\impl\UserServiceImpl.class
+com\travelassistant\user\FrontUserApplication.class
+com\travelassistant\user\constants\UserConstants.class
+com\travelassistant\user\service\UserService.class
+com\travelassistant\user\mapper\AddressMapper.class
+com\travelassistant\user\service\impl\AddressServiceImpl.class
+com\travelassistant\user\service\AddressService.class
+com\travelassistant\user\controller\FrontAddressController.class
+com\travelassistant\user\controller\FrontUserController.class

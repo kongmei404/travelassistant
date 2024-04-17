@@ -1,0 +1,9 @@
+com\travelassistant\product\listener\ProductListener.class
+com\travelassistant\product\mapper\PictureMapper.class
+com\travelassistant\product\controller\ProductController.class
+com\travelassistant\product\service\impl\ProductServiceImpl.class
+com\travelassistant\product\ProductApplication.class
+com\travelassistant\product\service\ProductService.class
+com\travelassistant\product\mapper\ProductMapper.class
+com\travelassistant\product\param\ProductParamInteger.class
+com\travelassistant\product\config\ProductConfiguration.class

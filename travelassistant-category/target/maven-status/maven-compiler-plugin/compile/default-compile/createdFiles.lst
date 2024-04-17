@@ -1,0 +1,5 @@
+com\travelassistant\service\impl\CategoryServiceImpl.class
+com\travelassistant\controller\CategoryController.class
+com\travelassistant\CategoryApplication.class
+com\travelassistant\service\CategoryService.class
+com\travelassistant\mapper\CategoryMapper.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-ai/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-carousel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-carousel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-category" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-category/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-collect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-collect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-common-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-common-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travelassistant-user/src/main/java" charset="UTF-8" />
+  </component>
+</project>

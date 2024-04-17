@@ -1,0 +1,6 @@
+com\travelassistant\carousel\mapper\CarouselMapper.class
+com\travelassistant\carousel\config\CarouselConfiguration.class
+com\travelassistant\carousel\controller\CarouselController.class
+com\travelassistant\carousel\service\CarouselService.class
+com\travelassistant\carousel\CarouselApplication.class
+com\travelassistant\carousel\service\impl\CarouselServiceImpl.class

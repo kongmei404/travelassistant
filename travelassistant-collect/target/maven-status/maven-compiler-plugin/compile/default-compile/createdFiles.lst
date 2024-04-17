@@ -1,0 +1,6 @@
+com\travelassistant\collect\service\impl\CollectServiceImpl.class
+com\travelassistant\collect\mapper\CollectMapper.class
+com\travelassistant\collect\pojo\Collect.class
+com\travelassistant\collect\CollectApplication.class
+com\travelassistant\collect\controller\CollectController.class
+com\travelassistant\collect\service\CollectService.class

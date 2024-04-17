@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\maven" />
+        <option name="localRepository" value="E:\maven\rep" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="E:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectId" id="2GCbdWUDaiTBw5Xl5XrXQFf2Ejj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.b2c-cloud-store [clean].executor": "Run",
+    "Maven.b2c-cloud-store [compile].executor": "Run",
+    "Maven.b2c-cloud-store [install].executor": "Run",
+    "Maven.store-admin [install].executor": "Run",
+    "Maven.store-front-carousel [install].executor": "Run",
+    "Maven.store-front-cart [install].executor": "Run",
+    "Maven.store-front-category [install].executor": "Run",
+    "Maven.store-front-collect [install].executor": "Run",
+    "Maven.store-front-order [install].executor": "Run",
+    "Maven.store-front-product [install].executor": "Run",
+    "Maven.store-front-user [install].executor": "Run",
+    "Maven.store-gateway [install].executor": "Run",
+    "Maven.store-search [install].executor": "Run",
+    "Maven.store-static-oss [install].executor": "Run",
+    "Maven.travelassistant [clean,install...].executor": "Run",
+    "Maven.travelassistant [clean].executor": "Run",
+    "Maven.travelassistant [compile].executor": "Run",
+    "Maven.travelassistant [install].executor": "Run",
+    "Maven.travelassistant-admin [install].executor": "Run",
+    "Maven.travelassistant-carousel [install].executor": "Run",
+    "Maven.travelassistant-cart [install].executor": "Run",
+    "Maven.travelassistant-category [install].executor": "Run",
+    "Maven.travelassistant-collect [install].executor": "Run",
+    "Maven.travelassistant-gateway [install].executor": "Run",
+    "Maven.travelassistant-order [install].executor": "Run",
+    "Maven.travelassistant-oss [install].executor": "Run",
+    "Maven.travelassistant-product [install].executor": "Run",
+    "Maven.travelassistant-search [install].executor": "Run",
+    "Maven.travelassistant-user [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Admin.executor": "Run",
+    "Spring Boot.AdminApplication.executor": "Run",
+    "Spring Boot.Carousel.executor": "Run",
+    "Spring Boot.CarouselApplication.executor": "Run",
+    "Spring Boot.Cart.executor": "Run",
+    "Spring Boot.CartApplication.executor": "Run",
+    "Spring Boot.Category.executor": "Run",
+    "Spring Boot.CategoryApplication.executor": "Run",
+    "Spring Boot.Collect.executor": "Run",
+    "Spring Boot.CollectApplication.executor": "Run",
+    "Spring Boot.FrontUserApplication.executor": "Run",
+    "Spring Boot.Gateway.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.Order.executor": "Run",
+    "Spring Boot.OrderApplication.executor": "Run",
+    "Spring Boot.Product.executor": "Run",
+    "Spring Boot.ProductApplication.executor": "Run",
+    "Spring Boot.Search.executor": "Run",
+    "Spring Boot.SearchApplication.executor": "Run",
+    "Spring Boot.StaticOss.executor": "Run",
+    "Spring Boot.StaticOssApplication.executor": "Run",
+    "Spring Boot.User.executor": "Run",
+    "Spring Boot.admin.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/代码/travelassistant/travelassistant-ai/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "问题",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.37471265",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.service" />
+      <recent name="com.atguigu.admin.service" />
+      <recent name="com.atguigu.order.service" />
+      <recent name="com.atguigu.cart.service" />
+      <recent name="com.atguigu.collect.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\代码\travelassistant\travelassistant-ai\src\main\resources" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\order" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\product" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\java\com\atguigu\admin\config" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-common-feign\src\main\java\com\atguigu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.clients" />
+      <recent name="com.atguigu.admin.controller" />
+      <recent name="com.atguigu.pojo" />
+      <recent name="com.atguigu.param" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Gateway">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="batchservice" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-ai" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.travelassistant.ai.TravelassistantAiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Admin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Carousel" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-carousel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.carousel.CarouselApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.CartApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Category" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-category" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.CategoryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collect" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-collect" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.collect.CollectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.gateway.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.order.OrderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.product.ProductApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.search.SearchApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticOss" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.oss.StaticOssApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travelassistant-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travelassistant.user.FrontUserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelassistant.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AI" />
+      <item itemvalue="Spring Boot.Admin" />
+      <item itemvalue="Spring Boot.Carousel" />
+      <item itemvalue="Spring Boot.Cart" />
+      <item itemvalue="Spring Boot.Category" />
+      <item itemvalue="Spring Boot.Collect" />
+      <item itemvalue="Spring Boot.Order" />
+      <item itemvalue="Spring Boot.Product" />
+      <item itemvalue="Spring Boot.User" />
+      <item itemvalue="Spring Boot.Gateway" />
+      <item itemvalue="Spring Boot.StaticOss" />
+      <item itemvalue="Spring Boot.Search" />
+      <item itemvalue="复合.batchservice" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2584523" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="" />
+      <created>1665895600457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665895600457</updated>
+      <workItem from="1665895602250" duration="17523000" />
+      <workItem from="1665968533039" duration="14673000" />
+      <workItem from="1665994689204" duration="305000" />
+      <workItem from="1665996320318" duration="17616000" />
+      <workItem from="1666057330629" duration="20774000" />
+      <workItem from="1666154643144" duration="1110000" />
+      <workItem from="1666156120074" duration="160000" />
+      <workItem from="1666156299970" duration="815000" />
+      <workItem from="1666157171198" duration="56869000" />
+      <workItem from="1666336650213" duration="7285000" />
+      <workItem from="1666399079957" duration="107385000" />
+      <workItem from="1666709300729" duration="7878000" />
+      <workItem from="1666790625103" duration="310000" />
+      <workItem from="1666791381657" duration="258000" />
+      <workItem from="1712594697365" duration="1825000" />
+      <workItem from="1712668754045" duration="2950000" />
+      <workItem from="1712731590834" duration="24829000" />
+      <workItem from="1712899594012" duration="4683000" />
+      <workItem from="1713090757803" duration="393000" />
+      <workItem from="1713266093373" duration="1517000" />
+      <workItem from="1713268117814" duration="4697000" />
+      <workItem from="1713322737590" duration="6525000" />
+      <workItem from="1713332643519" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
+      <created>1665920662745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665920662745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建">
+      <created>1665968613504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665968613504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03_功能实现_用户服务实现6个接口">
+      <created>1665991187927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665991187927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="04_功能实现_静态资源处理和oss服务">
+      <created>1665996604540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665996604540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="05_功能实现_轮播图类别和首页部分接口">
+      <created>1666020055349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666020055349</updated>
+    </task>
+    <task id="LOCAL-00006" summary="07_功能实现_实现商品功能和添加缓存功能">
+      <created>1666085652741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666085652741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="08_功能实现_收藏和搜索模块实现">
+      <created>1666253554353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666253554353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="09_功能实现_购物车,订单,地址以及后台管理用户模块">
+      <created>1666541797117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666541797117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10_功能实现_后台管理类别模块">
+      <created>1666596579684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666596579684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11_功能实现_后台管理商品和订单模块">
+      <created>1666685310412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666685310412</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <option name="closed" value="true" />
+      <created>1713331255242</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713331255242</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="01_项目基本结构_用户和商品以及网关和feign模块" />
+    <MESSAGE value="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建" />
+    <MESSAGE value="03_功能实现_用户服务实现6个接口" />
+    <MESSAGE value="04_功能实现_静态资源处理和oss服务" />
+    <MESSAGE value="05_功能实现_轮播图类别和首页部分接口" />
+    <MESSAGE value="07_功能实现_实现商品功能和添加缓存功能" />
+    <MESSAGE value="08_功能实现_收藏和搜索模块实现" />
+    <MESSAGE value="09_功能实现_购物车,订单,地址以及后台管理用户模块" />
+    <MESSAGE value="10_功能实现_后台管理类别模块" />
+    <MESSAGE value="11_功能实现_后台管理商品和订单模块" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-collect/src/main/java/com/travelassistant/collect/service/impl/CollectServiceImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-cart/src/main/java/com/travelassistant/listener/CartListener.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/AdminUserController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/service/impl/AdminUserServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/service/impl/UserServiceImpl.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/controller/FrontUserController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/UserController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/UserController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/UserController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/service/impl/UserServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-search/src/main/java/com/travelassistant/search/service/impl/SearchServiceImpl.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-cart/src/main/java/com/travelassistant/service/impl/CartServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-product/src/main/java/com/travelassistant/product/service/impl/ProductServiceImpl.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-category/src/main/java/com/travelassistant/service/impl/CategoryServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
