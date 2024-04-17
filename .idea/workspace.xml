@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +134,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/代码/travelassistant/travelassistant-ai/src/main/resources",
+    "last_opened_file_path": "E:/代码/travelassistant",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -142,7 +144,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.37471265",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -410,7 +412,7 @@
       <workItem from="1713266093373" duration="1517000" />
       <workItem from="1713268117814" duration="4697000" />
       <workItem from="1713322737590" duration="6525000" />
-      <workItem from="1713332643519" duration="54000" />
+      <workItem from="1713332643519" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
       <created>1665920662745</created>
@@ -490,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713331255242</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <option name="closed" value="true" />
+      <created>1713332732941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713332732941</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
