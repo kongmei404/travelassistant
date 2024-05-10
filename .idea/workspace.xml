@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="">
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Default Changelist">
       <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/controller/ChatController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/serive/FastGptService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/vo/UserAndContext.java" afterDir="false" />
@@ -252,7 +252,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.37471265",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -534,7 +534,7 @@
       <workItem from="1714033059329" duration="1363000" />
       <workItem from="1714547950603" duration="735000" />
       <workItem from="1714888671854" duration="2416000" />
-      <workItem from="1715059900106" duration="34467000" />
+      <workItem from="1715059900106" duration="34864000" />
     </task>
     <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
       <created>1665920662745</created>
@@ -646,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713333924452</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Default Changelist">
+      <option name="closed" value="true" />
+      <created>1715315322469</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715315322469</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
