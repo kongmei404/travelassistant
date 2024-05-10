@@ -124,7 +124,7 @@ public class ApplicationRunListener implements ApplicationRunner {
                                 .source(objectMapper.writeValueAsString(productDoc),XContentType.JSON));
         }
 
-        client.bulk(bulkRequest,RequestOptions.DEFAULT);
+        client.bulk(bulkRequest,RequestOptions.DEFAULT);//
 
         log.info("ApplicationRunListener.run业务结束，完成数据更新!");
 

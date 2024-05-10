@@ -61,7 +61,7 @@ public class R  implements Serializable {
      * @param data
      * @return
      */
-    public static R ok(String msg,Object data){
+    public static R    ok(String msg,Object data){
 
         return ok(msg,data,null);
     }
@@ -134,7 +134,7 @@ public class R  implements Serializable {
      */
     public static R NO_LOGIN(){
 
-        return fail(USER_NO_LOGIN,"用户未登录!");
+        return fail(FAIL_CODE,"用户未登录!");
     }
 
 

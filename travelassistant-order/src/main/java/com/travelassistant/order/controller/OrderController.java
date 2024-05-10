@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletResponse;
+
 /**
  * projectName: travelassistant
  *
@@ -33,7 +35,6 @@ public class OrderController {
     @PostMapping("save")
     public Object save(@RequestBody OrderParam orderParam){
 
-
         return orderService.save(orderParam);
     }
 
@@ -47,6 +48,12 @@ public class OrderController {
     public Object list(@RequestBody OrderParam orderParam){
 
         return orderService.list(orderParam);
+    }
+
+    @PostMapping("/noPayList")
+    public Object noPayList(@RequestBody OrderParam orderParam){
+
+        return orderService.noPayList(orderParam);
     }
 
 

@@ -21,7 +21,7 @@ import java.util.Date;
  */
 @Component
 @Data
-@ConfigurationProperties(prefix = "aliyun.oss.file")
+@ConfigurationProperties(prefix = "aliyun.oss.file")//这是配置文件中的前缀
 public class AliyunOSSUtils {
 
     //基本属性 读取配置文件

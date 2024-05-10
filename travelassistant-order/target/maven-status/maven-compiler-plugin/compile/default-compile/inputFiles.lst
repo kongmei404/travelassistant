@@ -1,6 +1,10 @@
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\service\OrderService.java
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\mapper\OrderMapper.java
+E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\config\AliPayConfig.java
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\OrderApplication.java
+E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\config\JedisConfig.java
+E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\controller\AliPayController.java
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\controller\OrderController.java
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\service\impl\OrderServiceImpl.java
+E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\pojo\AliPay.java
 E:\代码\travelassistant\travelassistant-order\src\main\java\com\travelassistant\order\config\OrderConfiguration.java

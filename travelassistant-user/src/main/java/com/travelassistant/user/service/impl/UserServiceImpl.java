@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * projectName: b2c_cloud_store
+ * projectName: travelassistant
  *
  * @author: 邱绍峰
  * time: 2024/03/16 21:31 周日

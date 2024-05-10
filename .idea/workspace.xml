@@ -4,7 +4,101 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/controller/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/serive/FastGptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/vo/UserAndContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/vo/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/config/AliPayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/config/JedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/controller/AliPayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/pojo/AliPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelassistant-order/src/main/resources/lua/add_order_with_expire.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/config/AliyunOSSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/config/AliyunOSSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/CaptchaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/CaptchaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/java/com/travelassistant/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/classes/com/travelassistant/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/classes/com/travelassistant/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/classes/com/travelassistant/service/impl/AdminUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/classes/com/travelassistant/service/impl/AdminUserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-admin/target/travelassistant-admin-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-admin/target/travelassistant-admin-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-ai/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-ai/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-carousel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-carousel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-carousel/src/main/java/com/travelassistant/carousel/service/impl/CarouselServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-carousel/src/main/java/com/travelassistant/carousel/service/impl/CarouselServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-carousel/target/travelassistant-carousel-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-carousel/target/travelassistant-carousel-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-cart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-cart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-cart/target/travelassistant-cart-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-cart/target/travelassistant-cart-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-category/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-category/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-category/src/main/java/com/travelassistant/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-category/src/main/java/com/travelassistant/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-category/target/classes/com/travelassistant/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-category/target/classes/com/travelassistant/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-category/target/travelassistant-category-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-category/target/travelassistant-category-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-collect/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-collect/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-collect/target/travelassistant-collect-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-collect/target/travelassistant-collect-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/constants/UserConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/constants/UserConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/pojo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/utils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/src/main/java/com/travelassistant/utils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/target/classes/com/travelassistant/constants/UserConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/target/classes/com/travelassistant/constants/UserConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/target/classes/com/travelassistant/utils/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/target/classes/com/travelassistant/utils/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-common-feign/target/travelassistant-common-feign-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-common-feign/target/travelassistant-common-feign-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-gateway/src/main/java/com/travelassistant/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-gateway/src/main/java/com/travelassistant/gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-gateway/target/travelassistant-gateway-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-gateway/target/travelassistant-gateway-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/OrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/src/main/java/com/travelassistant/order/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/OrderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/OrderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/classes/com/travelassistant/order/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-order/target/travelassistant-order-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-order/target/travelassistant-order-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/src/main/java/com/travelassistant/oss/StaticOssApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/src/main/java/com/travelassistant/oss/StaticOssApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/appliance/appliance-promo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/appliance/appliance-promo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/appliance/appliance-promo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/appliance/appliance-promo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/phone/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/src/main/resources/public/imgs/phone/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/appliance/appliance-promo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/appliance/appliance-promo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/appliance/appliance-promo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/appliance/appliance-promo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/phone/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/target/classes/public/imgs/phone/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-oss/target/travelassistant-oss-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-oss/target/travelassistant-oss-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-product/src/main/java/com/travelassistant/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-product/src/main/java/com/travelassistant/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-product/src/main/java/com/travelassistant/product/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-product/src/main/java/com/travelassistant/product/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-product/target/classes/com/travelassistant/product/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-product/target/classes/com/travelassistant/product/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-product/target/travelassistant-product-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-product/target/travelassistant-product-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-search/src/main/java/com/travelassistant/search/listener/ApplicationRunListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-search/src/main/java/com/travelassistant/search/listener/ApplicationRunListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-search/target/travelassistant-search-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-search/target/travelassistant-search-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/FrontUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/FrontUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/constants/UserConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/constants/UserConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/controller/FrontAddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/controller/FrontAddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/controller/FrontUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/controller/FrontUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/mapper/AddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/mapper/AddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/AddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/impl/AddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/impl/AddressServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/src/main/java/com/travelassistant/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/constants/UserConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/constants/UserConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/controller/FrontUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/controller/FrontUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/target/classes/com/travelassistant/user/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelassistant-user/target/travelassistant-user-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/travelassistant-user/target/travelassistant-user-1.0.0.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +146,9 @@
   <component name="MavenRunner">
     <option name="delegateBuildToMaven" value="true" />
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="none" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -90,13 +187,22 @@
     "Maven.travelassistant [clean].executor": "Run",
     "Maven.travelassistant [compile].executor": "Run",
     "Maven.travelassistant [install].executor": "Run",
+    "Maven.travelassistant [package].executor": "Run",
+    "Maven.travelassistant-admin [clean].executor": "Run",
     "Maven.travelassistant-admin [install].executor": "Run",
+    "Maven.travelassistant-admin [package].executor": "Run",
+    "Maven.travelassistant-ai [install].executor": "Run",
     "Maven.travelassistant-carousel [install].executor": "Run",
     "Maven.travelassistant-cart [install].executor": "Run",
     "Maven.travelassistant-category [install].executor": "Run",
     "Maven.travelassistant-collect [install].executor": "Run",
+    "Maven.travelassistant-common-feign [clean].executor": "Run",
+    "Maven.travelassistant-common-feign [compile].executor": "Run",
     "Maven.travelassistant-gateway [install].executor": "Run",
+    "Maven.travelassistant-order [clean].executor": "Run",
+    "Maven.travelassistant-order [compile].executor": "Run",
     "Maven.travelassistant-order [install].executor": "Run",
+    "Maven.travelassistant-order [validate].executor": "Run",
     "Maven.travelassistant-oss [install].executor": "Run",
     "Maven.travelassistant-product [install].executor": "Run",
     "Maven.travelassistant-search [install].executor": "Run",
@@ -108,6 +214,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.AI.executor": "Run",
     "Spring Boot.Admin.executor": "Run",
     "Spring Boot.AdminApplication.executor": "Run",
     "Spring Boot.Carousel.executor": "Run",
@@ -129,22 +236,23 @@
     "Spring Boot.SearchApplication.executor": "Run",
     "Spring Boot.StaticOss.executor": "Run",
     "Spring Boot.StaticOssApplication.executor": "Run",
+    "Spring Boot.TravelassistantAiApplication.executor": "Run",
     "Spring Boot.User.executor": "Run",
     "Spring Boot.admin.executor": "Run",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/代码/travelassistant",
+    "last_opened_file_path": "E:/代码/优化参考版本代码/b2c-store",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "问题",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.37471265",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "http.proxy",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -171,6 +279,10 @@
       <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\java\com\atguigu\admin\config" />
       <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-common-feign\src\main\java\com\atguigu" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\代码\travelassistant\travelassistant-product\src\main\java\com\travelassistant\product\controller" />
+      <recent name="E:\代码\travelassistant\travelassistant-product\src\main\resources\docs" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.clients" />
       <recent name="com.atguigu.admin.controller" />
@@ -181,13 +293,14 @@
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
+        <option value="CucumberJavaRunConfigurationType" />
         <option value="MicronautRunConfigurationType" />
         <option value="QuarkusRunConfigurationType" />
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Gateway">
+  <component name="RunManager" selected="Spring Boot.AI">
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
       <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
@@ -336,16 +449,16 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.AI" />
+      <item itemvalue="Spring Boot.Product" />
       <item itemvalue="Spring Boot.Admin" />
       <item itemvalue="Spring Boot.Carousel" />
       <item itemvalue="Spring Boot.Cart" />
       <item itemvalue="Spring Boot.Category" />
+      <item itemvalue="Spring Boot.StaticOss" />
       <item itemvalue="Spring Boot.Collect" />
       <item itemvalue="Spring Boot.Order" />
-      <item itemvalue="Spring Boot.Product" />
-      <item itemvalue="Spring Boot.User" />
       <item itemvalue="Spring Boot.Gateway" />
-      <item itemvalue="Spring Boot.StaticOss" />
+      <item itemvalue="Spring Boot.User" />
       <item itemvalue="Spring Boot.Search" />
       <item itemvalue="复合.batchservice" />
     </list>
@@ -372,7 +485,6 @@
     <attachedChunks>
       <set>
         <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
@@ -381,7 +493,9 @@
     <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\11473\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="D:\IntelliJ IDEA\id_rsa_2048" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -412,7 +526,15 @@
       <workItem from="1713266093373" duration="1517000" />
       <workItem from="1713268117814" duration="4697000" />
       <workItem from="1713322737590" duration="6525000" />
-      <workItem from="1713332643519" duration="1231000" />
+      <workItem from="1713332643519" duration="36307000" />
+      <workItem from="1713448720345" duration="25602000" />
+      <workItem from="1713539568987" duration="384000" />
+      <workItem from="1713539966376" duration="96791000" />
+      <workItem from="1713874639789" duration="1805000" />
+      <workItem from="1714033059329" duration="1363000" />
+      <workItem from="1714547950603" duration="735000" />
+      <workItem from="1714888671854" duration="2416000" />
+      <workItem from="1715059900106" duration="34467000" />
     </task>
     <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
       <created>1665920662745</created>
@@ -516,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713333843533</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Default Changelist">
+      <option name="closed" value="true" />
+      <created>1713333924452</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713333924452</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,7 +767,26 @@
           <line>87</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/controller/ChatController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/travelassistant-ai/src/main/java/org/travelassistant/ai/serive/FastGptService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.google.common.collect.ImmutableMapEntry" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

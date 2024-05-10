@@ -44,3 +44,11 @@ spring:
           uri: lb://admin-service
           predicates:
             - Path=/admin/**
+        - id: ai-service  # 智能客服
+          uri: lb://ai-service
+          predicates:
+            - Path=/ai/**
+        - id: order-service  # 订单服务之 支付模块
+          uri: lb://order-service
+          predicates:
+            - Path=/alipay/**

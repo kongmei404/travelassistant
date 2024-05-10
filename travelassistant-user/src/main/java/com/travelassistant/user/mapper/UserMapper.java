@@ -4,7 +4,7 @@ import com.travelassistant.pojo.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * projectName: b2c_cloud_store
+ * projectName: travelassistant
  *
  * @author: 邱绍峰
  * time: 2024/03/16 21:32 周日

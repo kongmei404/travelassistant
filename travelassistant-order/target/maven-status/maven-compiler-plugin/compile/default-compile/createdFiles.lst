@@ -1,6 +1,10 @@
+com\travelassistant\order\config\AliPayConfig.class
+com\travelassistant\order\config\JedisConfig.class
+com\travelassistant\order\controller\AliPayController.class
+com\travelassistant\order\service\impl\OrderServiceImpl.class
+com\travelassistant\order\pojo\AliPay.class
 com\travelassistant\order\config\OrderConfiguration.class
 com\travelassistant\order\controller\OrderController.class
 com\travelassistant\order\mapper\OrderMapper.class
 com\travelassistant\order\service\OrderService.class
 com\travelassistant\order\OrderApplication.class
-com\travelassistant\order\service\impl\OrderServiceImpl.class

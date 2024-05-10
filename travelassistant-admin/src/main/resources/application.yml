@@ -1,5 +1,8 @@
 spring:
-  # 连接池配置
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
   datasource:
     url: jdbc:mysql://34.150.13.89:5807/store_admin?useSSL=false&useUnicode=true&characterEncoding=UTF-8
     username: root

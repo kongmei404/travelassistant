@@ -4,7 +4,7 @@ import com.travelassistant.param.AddressParam;
 import com.travelassistant.utils.R;
 
 /**
- * projectName: b2c_cloud_store
+ * projectName: travelassistant
  *
  * @author: 邱绍峰
  * time: 2024/03/17 11:15 周一

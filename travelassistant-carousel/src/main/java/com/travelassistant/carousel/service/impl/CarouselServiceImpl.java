@@ -42,10 +42,10 @@ public class CarouselServiceImpl implements CarouselService {
         //查询数据库
         IPage<Carousel> iPage = new Page<>(1,limit);
         QueryWrapper<Carousel> carouselQueryWrapper = new QueryWrapper<>();
-        carouselQueryWrapper.orderByDesc("priority");
-        IPage<Carousel> page = carouselMapper.selectPage(iPage, carouselQueryWrapper);
+        carouselQueryWrapper.orderByDesc("priority");//按照优先级排序
+        IPage<Carousel> page = carouselMapper.selectPage(iPage, carouselQueryWrapper);//查询数据库
 
-        List<Carousel> carouselList = page.getRecords();
+        List<Carousel> carouselList = page.getRecords();//获取数据
         long total = page.getTotal();
         System.out.println("total = " + total);
 

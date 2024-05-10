@@ -34,6 +34,11 @@ public class CategoryController {
         return  categoryService.list();
     }
 
+    /**
+     * 查询类别详情
+     * @param categoryName
+     * @return
+     */
     @GetMapping("/{categoryName}")
     public Category detail(@PathVariable(value = "categoryName")String categoryName){
 
@@ -41,6 +46,11 @@ public class CategoryController {
     }
 
 
+    /**
+     * 供搜索服务使用，根据传入的类别名称，查询类别id集合
+     * @param productParamsString
+     * @return
+     */
     @PostMapping("/names")
     public List<Integer> names(@RequestBody ProductParamsString productParamsString){
 

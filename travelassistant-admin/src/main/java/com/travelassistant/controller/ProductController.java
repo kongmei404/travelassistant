@@ -7,13 +7,11 @@ import com.travelassistant.pojo.Product;
 import com.travelassistant.service.ProductService;
 import com.travelassistant.utils.R;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.ServletContext;
+import javax.servlet.annotation.MultipartConfig;
 
 /**
  * projectName: travelassistant
@@ -47,11 +45,11 @@ public class ProductController {
 
         String filename = img.getOriginalFilename();
         String contentType = img.getContentType();
-        long millis = System.currentTimeMillis();
+        long millis = System.currentTimeMillis();//获取当前时间戳
 
         filename = millis + filename; //防止重复
 
-        String url = aliyunOSSUtils.uploadImage(filename, img.getBytes(), contentType, 1000);
+        String url = aliyunOSSUtils.uploadImage(filename, img.getBytes(), contentType, 1000);//指定了
         System.out.println("url = " + url);
         return R.ok("上传成功",url);
 

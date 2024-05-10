@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * projectName: b2c_cloud_store
+ * projectName: travelassistant
  *
  * @author: 邱绍峰
  * time: 2024/03/16 21:26 周日
@@ -67,6 +67,11 @@ public class FrontUserController {
     }
 
 
+    /**
+     * 前台调用,检查用户名是否存在
+     * @param user
+     * @return
+     */
 
     @PostMapping("check")
     public R check(@RequestBody User user){

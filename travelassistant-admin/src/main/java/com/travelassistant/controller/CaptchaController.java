@@ -17,7 +17,7 @@ public class CaptchaController {
     public void captcha(HttpServletRequest request, HttpServletResponse response) throws Exception {
         //默认四个字符长度的验证码
         //默认放入session key = captcha 的位置
-        CaptchaUtil.out(request, response);
+        CaptchaUtil.out(request, response);//使用默认字符源生成验证码
     }
 
 }

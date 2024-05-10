@@ -276,7 +276,7 @@ public class ProductServiceImpl extends ServiceImpl<ProductMapper,Product> imple
      * @param productIdsParam
      * @return
      */
-    @Cacheable(value = "list.product",key = "#productIdsParam.productIds")
+    @Cacheable(value = "list.product",key = "#productIdsParam.productIds")//缓存
     @Override
     public List<Product> ids(ProductIdsParam productIdsParam) {
 

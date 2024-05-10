@@ -1,4 +1,13 @@
 spring:
+  redis:
+    host: 34.150.13.89
+    port: 6637
+    timeout: 2000
+    password: null
+    jedis:
+      pool:
+        max-idle: 8
+        max-wait: 3000
   # 连接池配置
   datasource:
     url: jdbc:mysql://34.150.13.89:5807/store_order?useSSL=false&useUnicode=true&characterEncoding=UTF-8
@@ -27,3 +36,10 @@ feign:
     enabled: true  # 开启httpClient开关,启动连接池,提升feign连接效率!
     max-connections: 200  #最大连接数量
     max-connections-per-route: 50  #单路径最大连接数
+#支付宝
+alipay:
+  appId: 9021000136634668
+  appPrivateKey: MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2sGbk+Y2hiWJxyiTGvHXUE7Li3MG4AWAVF9wEKZseUrqSUlJSYOtlAHUXs24HycVx7r6xbKDIDYE+oGnEVtSWJvR/1DO2kuOGoF7u1wWSwbroeBNm57BEKLRmY6gIMo/yC+vwHg2TYiFzcToPe8IZss8NdadkOnS87xUVUPz+KLW19TMV96pROhpYGGClvqfGxNQM2BsX7/ODG33fFQxmmBS2fp3JDQwQ/4HwD+oiTtEz37ge3xCla6SghK+m0SniSd9QedM6C12yP3Q9QxSEZAOIu8Ia9gdQlIQ8WHEft+1Wqfg6jD1S0Z1Rx2CSrvoL/8l/WfznbYmvKzSoJ1vXAgMBAAECggEAS4pXkZiq+r+PKFQYruCgrCfVET+NDqPq8e3iuQnnLTuyD+zgQ1X2H9Z3lGxKNAg3j2vUCBNNzErhRV8ZPOlWkBvdf7nkBDtqv3Eyr/nTQSLAQX3dL/Dfjt9x8OCGS5V0tfY+AhS7MlUiVdTc2CgpU2z/dqZOqAAP40vM4PqTEhhYJV8c/wPBtbroRT0nrrksYdXOgJY+3eOrwH0bih0XfsXws3yiGWvdKBR45Mh5wz19u94nE+ooiSsmLDvTpYc788UgXHbvGicAJtfh/V6MDnWRi+4VVmwBQdJEtI1ynPwv5Oh0J7sVaD8VhRbF/THf3+AHUNM7RDOdhR7R9wfkUQKBgQD9jqJ9daxzjPoL9Zp1Wwo3P9asymBK4ScwKmXXaXcd9JJHEeILiaxi1IM7oXsFKxznDbtHmVORiCGT8Sg4Qw8Oq+azH/g0dKpxJDALtxnm9LRroKn4DysrX90Tq4fOJAFhA7SyU5hw2Z6uyueoNAc7KxEFeNX4bCNnb5+1JoGyiQKBgQC4cvr7jOuwp5UprN9OruZAc7awEKqpUfBW24MLEPRwmvOkWMm//4Rr3r94ZEcMGNxzBVp52sDR2MY7M53z+KarCmSIHt3E0AifHHYpxpe6+JPnlf+yLbZ507gf1avstjbsJHnxpN6SA2Rlyqb45sRD1fwVfxShAJOCkhtrf9qDXwKBgQDxAKYJwdOMcS8qNuP9L+9h3FfcHO+xvJhW+7WZLjF+U3zF+IV2mgE0XvHtt+sKWpQ6OZ8MyvvXlCD2UX39HCAvvcyl7XkpwspOiCryt7LzBxyGQEvN7/0EWTX1AFEw6qA06iTSawq2GOLvGQVfpzRIVQL0xIn8eiycoEiZEmSsoQKBgC1h9QkBslgD07quUz9r3zFKh0+ouiTxCT6Fwidt44b1SS9NvU4lU3KrGtdHbQe38j3Gum0y+rBnMtcMKzgFHRUGeJfZaF1thkGH4jcDKwAQ+2tGx+QSRUySYEJM84FJkBfoHazsEOtCNGirRQwG05GRS/YKD4xRtPmyc1au3ZfnAoGAWXFvvTHqn+RJDsXUY/TC/p85q4dSI7keNfelFtqIeFDdtXQSTl1mtZOxYEnpE6+Mjf4k/oyXgkxo7OkKXI1zq0QI+7UDeJDr5tIoFD+FV3huJWRDzxNK3rKQqDMFXthDsesBZ3S8unxr5V4lCHIkfueWUgKBQO2GMW96f0AZrj8=
+  alipayPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAinbaS4PTJqIP2PqtMZRfmPYkMIoFFd8NuMCCptkwoPLzQq4nHHBbFfhqB4WluxO2AT27f/IBIH0Twboe/Qk6ZV8WRvQfDFQD/wXjGsljxTgFYs75EVkhkLH6ezJpHg6ZbIvWad0aYNS0drZmnUteGicLrJFAIvUk3+Ev2DfVIzTKQx5BrqlzUUyhJ42CdjHY9rpVAIzEOX4Ji+HZGuRR6JyaF6CjmCMbWDSi9l4Vys8uKC1ifTZCdJH7xG7zufHZkJFNrNsqperLiLi7JhFVGqa50ydaIOsOa+8JSQG9UIkC5rdIPmX9y433isGYy6Jy5e/LD92fzp6D2Eg2Cc9/ZQIDAQAB
+  notifyUrl: http://uanvdv.natappfree.cc/alipay/notify
+  returnUrl: http://localhost:8080/orderNoPay

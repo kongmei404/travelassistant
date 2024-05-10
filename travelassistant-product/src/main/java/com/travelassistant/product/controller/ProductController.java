@@ -9,8 +9,18 @@ import com.travelassistant.product.param.ProductParamInteger;
 import com.travelassistant.product.service.ProductService;
 import com.travelassistant.utils.R;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
+import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
+import org.springframework.util.FileCopyUtils;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
 
@@ -24,6 +34,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("product")
 public class ProductController {
+
 
     @Autowired
     private ProductService productService;

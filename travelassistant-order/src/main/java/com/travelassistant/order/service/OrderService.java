@@ -5,6 +5,8 @@ import com.travelassistant.param.PageParam;
 import com.travelassistant.pojo.Order;
 import com.baomidou.mybatisplus.extension.service.IService;
 
+import javax.servlet.http.HttpServletResponse;
+
 /**
  * projectName: travelassistant
  *
@@ -41,4 +43,6 @@ public interface OrderService extends IService<Order> {
      * @return
      */
     Object adminList(PageParam pageParam);
+
+    Object noPayList(OrderParam orderParam);
 }
